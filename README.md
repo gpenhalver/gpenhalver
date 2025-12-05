@@ -1,10 +1,36 @@
-# 👋 Hey There! Welcome to my Github profile.
-## My name is Gabriel Penhalver and my nickname is "Penha"!
+<h2>👨🏻‍💻 Hey there! I'm Gabriel Penhalver! 👨🏻‍💻</h2>
+<br>          
+<li>
+          🎓 Studied Engineering programs at both UNIFEI and UFF during my early academic years.
+          
+</li>
+          <li>💼 Completed a technical degree in Information Technology during high school
+</li><li>
+          ⚽ Later moved to the United States to play soccer while pursuing Computer Science studies in Michigan and Illinois.
+          
+</li>
+          
+</li><li>
+          💻 Experience with HTML, CSS, JavaScript, and foundational knowledge of web development.
+</li><li>
+          🐍 Currently sharpening my skills in Python, including backend logic, automation, and algorithmic thinking.
+</li>
+<br>
+<h2>Language and Tools 👨🏻‍💻</h2>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,html,css,php" />
+  </a>
+</p>
+<h2>🌱 I’m currently learning</h2>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,react,docker,mysql,fastapi,js,git" />
+  </a>
+</p>
 
-![Snake animation](https://github.com/gpenhalver/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
-
-
-<div class="tenor-gif-embed" data-postid="2425343984371610355" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/daffy-duck-looney-tunes-bugs-bunny-%26-taz-hello-chat-la-spirale-du-temps-gif-2425343984371610355">Daffy Duck Looney Tunes GIF</a>from <a href="https://tenor.com/search/daffy+duck-gifs">Daffy Duck GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <div>
 <a href="https://github.com/gpenhalver">
@@ -12,9 +38,14 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gpenhalver&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-🌱 I’m currently learning
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+## Contatos:
+<div>
+<p align = "center">
+<br>          
+<a href = "mailto:gpenhalver@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gabriel-penhalver/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
           
 
 <!--
