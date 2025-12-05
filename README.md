@@ -1,4 +1,7 @@
-<img src="daffy-duck-looney-tunes.gif.gif" width="100%" />
+
+<p align="center">
+  <img src="daffy-duck-looney-tunes.gif" alt="Banner" width="100%">
+</p>
 
 
 
