@@ -1,3 +1,8 @@
+<img src="daffy-duck-looney-tunes.gif.gif" width="100%" />
+
+
+
+
 <h2>👨🏻‍💻 Hey there! I'm Gabriel Penhalver! 👨🏻‍💻</h2>
 <br>          
 <li>
