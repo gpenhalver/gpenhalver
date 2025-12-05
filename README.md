@@ -44,7 +44,7 @@
 </div>
 
 
-## Contatos:
+## Contact:
 <div>
 <p align = "center">
 <br>          
